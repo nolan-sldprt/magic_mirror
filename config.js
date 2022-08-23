@@ -13,7 +13,7 @@ modules: [
     dateFormat: "dddd, YYYY/MM/DD",
     },
   },
-  
+  change
   {
     module: "currentweather",
     position: "top_right", // This can be any of the regions.
