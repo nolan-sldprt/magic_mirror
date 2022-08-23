@@ -1,9 +1,27 @@
 // stuff before
 
-// future modules
-// https://forum.magicmirror.builders/topic/10694/how-to-get-the-office-365-calender-url-for-your-magic-mirror/2
+// future possibilities
 // https://forum.magicmirror.builders/topic/10694/how-to-get-the-office-365-calender-url-for-your-magic-mirror/2
 // https://github.com/FD-/RPiPlay
+
+// functional modules to add
+// https://github.com/werthdavid/MMM-BurnIn
+// https://github.com/sheyabernstein/MMM-connection-status
+// https://github.com/AlexDespain01/mm-hide-all
+// https://github.com/slametps/MMM-NetworkConnection
+// https://github.com/PoOwAa/MMM-network-signal
+// https://github.com/shbatm/MMM-OnScreenMenu
+// https://github.com/MMRIZE/MMM-Remote-Control-Repository
+
+// useful
+// https://github.com/pinsdorf/MMM-WeeklySchedule
+// https://github.com/vicmora/MMM-GoogleMapsTraffic
+// https://github.com/mrdis/MMM-google-route
+// https://github.com/pjestico/MMM-GoogleTrafficTimes
+// add interior statistics such as humidity and temp
+// IOT capabilities
+// spotify
+
 
 modules: [
   {
